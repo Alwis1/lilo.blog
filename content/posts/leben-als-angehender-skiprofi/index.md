@@ -1,7 +1,7 @@
 +++
 title = "Leben als angehender Skiprofi"
 date = "2024-03-27"
-draft = true
+draft = false
 pinned = false
 image = "wandern-pinterst-2-.png"
 footnotes = ""
