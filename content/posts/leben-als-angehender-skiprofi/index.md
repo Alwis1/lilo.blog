@@ -20,14 +20,11 @@ iphone 14 11
 
 {{</lead>}}
 
-
-
 ```
 {{<lead>}}
 
-ich habe ein ion handy 
+Die meisten Skiprofis haben wohlhabende Eltern aufgrund der teuren Eintrittsgebühren in den Sport(Kosten für Skier, Skipässe etc.) 
+Wo durch Sportler mit weniger finanziellen möglichkeiten deutlich beanachteiligt sind wenn sie keine Sponsoren haben.
 
 {{</lead>}}
-
-
 ```
